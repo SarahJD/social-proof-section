@@ -1,0 +1,10 @@
+
+
+/* start grid fallback */
+#heading-star-box-wrapper {
+	display: inline-block;
+	width: 50%;
+}
+/* end grid fallback */
+
+@supports (display: grid) {
