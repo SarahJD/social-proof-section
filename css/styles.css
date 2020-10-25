@@ -18,7 +18,7 @@ body {
 	font-weight: 400;
 	font-size: 15px;
 	color: #502050;
-	margin: 120px;
+	margin: 150px;
 }
 
 #heading {
@@ -29,7 +29,7 @@ body {
 }
 
 h1 {
-	font-size: 2em;
+	font-size: 2.5em;
 	padding-right: 20px;
 	margin: 0px;
 	width: 60%;
@@ -38,7 +38,7 @@ h1 {
 #heading__paragraph {
 	width: 75%;
 	color: #937b92;
-	font-size: 0.9em;
+	font-size: 1.1em;
 	line-height: 1.5em;
 }
 
@@ -152,6 +152,7 @@ footer {
 		font-size: 15px;
 		color: #502050;
 		margin: 20px;
+		padding-top: 10px;
 	}
 
 #heading-star-box-wrapper {
