@@ -18,7 +18,7 @@ body {
 	font-weight: 400;
 	font-size: 15px;
 	color: #502050;
-	margin: 20px;
+	margin: 120px;
 }
 
 #heading {
@@ -145,7 +145,15 @@ footer {
 	padding: 80px 0px 0px 0px;
 }
 
-@media only screen and  (max-width: 375px) {
+@media only screen and  (max-width: 475px) {
+	body {
+		font-family: 'Spartan', sans-serif;
+		font-weight: 400;
+		font-size: 15px;
+		color: #502050;
+		margin: 20px;
+	}
+
 #heading-star-box-wrapper {
 			display: grid;
 			grid-template-columns: 1fr;
@@ -169,6 +177,7 @@ h1 {
 
 .star-box {
 	width: 100%;
+	margin: 10px 0;
 	flex-direction: column;
 	align-items: center;
 }
